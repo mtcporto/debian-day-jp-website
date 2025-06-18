@@ -7,7 +7,7 @@ import { Calendar, Users } from "lucide-react";
 const Schedule = () => {
   const schedule = [
     {
-      day: "15 de agosto - Quinta-feira",
+      day: "15 de agosto - Sexta-feira",
       note: "Depende das propostas recebidas",
       events: [
         {
@@ -37,7 +37,7 @@ const Schedule = () => {
       ]
     },
     {
-      day: "Sexta-feira",
+      day: "16 de agosto - Sábado",
       note: "Auditório garantido",
       events: [
         {
