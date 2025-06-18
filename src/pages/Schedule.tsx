@@ -37,7 +37,7 @@ const Schedule = () => {
       ]
     },
     {
-      day: "16 de agosto - Sexta-feira",
+      day: "Sexta-feira",
       note: "Auditório garantido",
       events: [
         {
