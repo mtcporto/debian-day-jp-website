@@ -1,7 +1,6 @@
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@config "../tailwind.config.ts";
 
 @layer base {
   :root {
@@ -93,3 +92,5 @@
 .debian-hero-bg {
   background: linear-gradient(135deg, #d70a53 0%, #337ab7 50%, #6cc04a 100%);
 }
+
+.faq-trigger::-webkit-details-marker { display: none; }
